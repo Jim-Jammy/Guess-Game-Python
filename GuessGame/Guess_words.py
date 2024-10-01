@@ -1,0 +1,1 @@
+val = ["Cat","Dog","Elephant","Lion","Tiger","Wolf","Sheep","Pig","Rat"]
